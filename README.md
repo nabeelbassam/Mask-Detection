@@ -6,6 +6,8 @@ This project uses a Deep Neural Network, more specifically DenseNet201, to diffe
 
 The dataset used can be downloaded from [here](https://www.kaggle.com/code/shahf11/face-mask-detection-with-densenet201-99-6-acc/data), the dataset consists of almost 12K images which are almost 328.92MB in size.
 
+** the dataset in this repository is a sample from the original data 
+
 This dataset is already divided into three chunks (train, test, validation):
 * 10000 images as a train set:
 * 800 images as a validation set:
